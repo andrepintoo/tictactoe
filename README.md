@@ -1,4 +1,3 @@
-# tictactoe
 <h1>A simple TIC-TAC-TOE game </h1>
 
 Made with python 3.9 version
