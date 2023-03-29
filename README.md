@@ -1,5 +1,6 @@
 <h1>A simple TIC-TAC-TOE game </h1>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Made with python 3.9 version
 
 <h2> How to setup your game: </h2>
